@@ -40,5 +40,4 @@ Python, OpenCV
 
 📧 pkt.codes@gmail.com
 
-Algorithms aren’t interview prep.
-They’re tools to model intelligence. 🧠✨
+AI is not magic. It’s math + data + obsession.🤖
