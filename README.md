@@ -36,7 +36,7 @@ Python, OpenCV
 ✔ Production-level AI systems
 ✔ System Design
 
-📬 LinkedIn: https://www.linkedin.com/in/priyanshu-tiwari-7a2b04293/
+📬 LinkedIn: https://www.linkedin.com/in/priyanshu-halok600/
 
 📧 pkt.codes@gmail.com
 
